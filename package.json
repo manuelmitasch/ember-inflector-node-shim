@@ -1,8 +1,12 @@
 {
   "name": "ember-inflector-node-shim",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Shim project to enable the use of ember inflector with node. Original code from Stefan Penner at: https://github.com/stefanpenner/ember-inflector",
-  "main": "string.js",
+  "main": "main.js",
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/manuelmitasch/ember-inflector-node-shim"
+  },
   "keywords": [
     "ember",
     "inflector",
