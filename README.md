@@ -6,7 +6,7 @@ Original code from Stefan Penner at: https://github.com/stefanpenner/ember-infle
 Install
 -------
 ```
-npm install https://github.com/manuelmitasch/ember-inflector-node-shim --save
+npm install git://github.com/manuelmitasch/ember-inflector-node-shim --save
 ```
 
 Use
